@@ -1,0 +1,57 @@
+EXTERNAL TEST DATASET - VIDEO URLs
+==================================================
+
+AUTISM VIDEOS (39 files):
+------------------------------
+autism_001.mkv -> 1.mkv -> https://www.youtube.com/shorts/qAl0uZvfyvw
+autism_002.mp4 -> 10.mp4 -> https://www.youtube.com/shorts/CAJfYUDhrTY
+autism_003.mp4 -> 11.mp4 -> https://www.youtube.com/shorts/TXjV7lbcgRc
+autism_004.mkv -> 12.mkv -> https://www.youtube.com/shorts/Znjj0vESEZE
+autism_005.webm -> 13.webm -> https://www.youtube.com/shorts/o_ETU-3EY9w
+autism_006.mp4 -> 14.mp4 -> https://www.youtube.com/shorts/ZDYQrRMyMWc
+autism_007.mkv -> 15.mkv -> https://www.youtube.com/shorts/wHCrJhLAnBM
+autism_008.mp4 -> 16.mp4 -> https://www.youtube.com/shorts/E_-YpVC6LPI
+autism_009.mp4 -> 17.mp4 -> https://www.youtube.com/watch?v=pRe1QuvSsGk&ab_channel=KuttiStory
+autism_010.mp4 -> 18.mp4 -> https://www.youtube.com/watch?v=F94ZM71dJBM&ab_channel=VaporMan
+autism_011.mp4 -> 19.mp4 -> https://www.youtube.com/shorts/H49ejJXbVzw
+autism_012.mp4 -> 2.mp4 -> https://www.youtube.com/shorts/fysxYydPdGs
+autism_013.mp4 -> 20.mp4 -> https://www.youtube.com/shorts/9U5vM_KQ74Y
+autism_014.mp4 -> 21.mp4 -> https://www.youtube.com/shorts/NiLPJaWhUIk
+autism_015.mp4 -> 22.mp4 -> https://www.youtube.com/shorts/7EInm5td5PA
+autism_016.mp4 -> 24.mp4 -> https://www.youtube.com/shorts/l1Iy8vvPtAc
+autism_017.mp4 -> 25.mp4 -> https://www.youtube.com/shorts/ZWkwfZSM_b0
+autism_018.mp4 -> 26.mp4 -> https://www.youtube.com/shorts/3DbaqNY5_0U
+autism_019.mp4 -> 27.mp4 -> https://www.youtube.com/shorts/TnQ3GacwFCg
+autism_020.mp4 -> 28.mp4 -> https://www.youtube.com/shorts/SofiWF8yxlA
+autism_021.mkv -> 29.mkv -> https://www.youtube.com/watch?v=q3fWJQ48dBI&ab_channel=TheAutumnSkyeShow
+autism_022.mp4 -> 3.mp4 -> https://www.youtube.com/shorts/92ZEmxjR0V8
+autism_023.webm -> 30.webm -> https://www.youtube.com/shorts/HNuVzF0DZKo
+autism_024.mkv -> 31.mkv -> https://www.youtube.com/shorts/wZwpTqzofP8
+autism_025.mp4 -> 32.mp4 -> https://www.youtube.com/shorts/PW4MwxUb0p0
+autism_026.mkv -> 33.mkv -> https://www.youtube.com/shorts/qbVe1Zc4HYM
+autism_027.mp4 -> 34.mp4 -> https://www.youtube.com/shorts/W73cBCwaKXE
+autism_028.webm -> 35.webm -> https://www.youtube.com/shorts/3DtgiR5SI-0
+autism_029.mp4 -> 36.mp4 -> https://www.youtube.com/shorts/XLu50S8H2tU
+autism_030.mkv -> 37.mkv -> https://www.youtube.com/shorts/9I-5Zgw3QhQ
+autism_031.mkv -> 38.mkv -> https://www.youtube.com/shorts/MjZCuZXSkqM
+autism_032.mkv -> 39.mkv -> https://www.youtube.com/shorts/MjZCuZXSkqM
+autism_033.mp4 -> 4.mp4 -> https://www.youtube.com/shorts/y-k9CQMJcRQ
+autism_034.mkv -> 40.mkv -> https://www.youtube.com/shorts/tSkS5AF4s2o
+autism_035.mkv -> 5.mkv -> https://www.youtube.com/shorts/pFGBUME8roY
+autism_036.mp4 -> 6.mp4 -> https://www.youtube.com/shorts/SVUlNkxAeZ0
+autism_037.mkv -> 7.mkv -> https://www.youtube.com/watch?v=qiz1CnD6Dj4&ab_channel=learngo
+autism_038.mp4 -> 8.mp4 -> https://www.youtube.com/watch?v=SQRSpgBnABc&ab_channel=TheDadLab
+autism_039.mp4 -> 9.mp4 -> https://www.youtube.com/shorts/aNFliCNMhgg
+
+HEALTHY VIDEOS (1 file):
+------------------------------
+healthy_001.webm -> 22.webm -> URL from Normal folder (not in autism URL list)
+
+SUMMARY:
+------------------------------
+Total external test videos: 40
+Autism videos: 39
+Healthy videos: 1
+
+Note: All videos are unique and were NOT used in model training.
+These videos can be used to test model generalizability on unseen data.
