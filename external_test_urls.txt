@@ -1,0 +1,92 @@
+EXTERNAL TEST DATASET - VIDEO URLs
+==================================================
+
+AUTISM VIDEOS (39 files):
+------------------------------
+autism_001.mkv -> 1.mkv -> https://www.youtube.com/shorts/qAl0uZvfyvw
+autism_002.mp4 -> 10.mp4 -> https://www.youtube.com/shorts/CAJfYUDhrTY
+autism_003.mp4 -> 11.mp4 -> https://www.youtube.com/shorts/TXjV7lbcgRc
+autism_004.mkv -> 12.mkv -> https://www.youtube.com/shorts/Znjj0vESEZE
+autism_005.webm -> 13.webm -> https://www.youtube.com/shorts/o_ETU-3EY9w
+autism_006.mp4 -> 14.mp4 -> https://www.youtube.com/shorts/ZDYQrRMyMWc
+autism_007.mkv -> 15.mkv -> https://www.youtube.com/shorts/wHCrJhLAnBM
+autism_008.mp4 -> 16.mp4 -> https://www.youtube.com/shorts/E_-YpVC6LPI
+autism_009.mp4 -> 17.mp4 -> https://www.youtube.com/watch?v=pRe1QuvSsGk&ab_channel=KuttiStory
+autism_010.mp4 -> 18.mp4 -> https://www.youtube.com/watch?v=F94ZM71dJBM&ab_channel=VaporMan
+autism_011.mp4 -> 19.mp4 -> https://www.youtube.com/shorts/H49ejJXbVzw
+autism_012.mp4 -> 2.mp4 -> https://www.youtube.com/shorts/fysxYydPdGs
+autism_013.mp4 -> 20.mp4 -> https://www.youtube.com/shorts/9U5vM_KQ74Y
+autism_014.mp4 -> 21.mp4 -> https://www.youtube.com/shorts/NiLPJaWhUIk
+autism_015.mp4 -> 22.mp4 -> https://www.youtube.com/shorts/7EInm5td5PA
+autism_016.mp4 -> 24.mp4 -> https://www.youtube.com/shorts/l1Iy8vvPtAc
+autism_017.mp4 -> 25.mp4 -> https://www.youtube.com/shorts/ZWkwfZSM_b0
+autism_018.mp4 -> 26.mp4 -> https://www.youtube.com/shorts/3DbaqNY5_0U
+autism_019.mp4 -> 27.mp4 -> https://www.youtube.com/shorts/TnQ3GacwFCg
+autism_020.mp4 -> 28.mp4 -> https://www.youtube.com/shorts/SofiWF8yxlA
+autism_021.mkv -> 29.mkv -> https://www.youtube.com/watch?v=q3fWJQ48dBI&ab_channel=TheAutumnSkyeShow
+autism_022.mp4 -> 3.mp4 -> https://www.youtube.com/shorts/92ZEmxjR0V8
+autism_023.webm -> 30.webm -> https://www.youtube.com/shorts/HNuVzF0DZKo
+autism_024.mkv -> 31.mkv -> https://www.youtube.com/shorts/wZwpTqzofP8
+autism_025.mp4 -> 32.mp4 -> https://www.youtube.com/shorts/PW4MwxUb0p0
+autism_026.mkv -> 33.mkv -> https://www.youtube.com/shorts/qbVe1Zc4HYM
+autism_027.mp4 -> 34.mp4 -> https://www.youtube.com/shorts/W73cBCwaKXE
+autism_028.webm -> 35.webm -> https://www.youtube.com/shorts/3DtgiR5SI-0
+autism_029.mp4 -> 36.mp4 -> https://www.youtube.com/shorts/XLu50S8H2tU
+autism_030.mkv -> 37.mkv -> https://www.youtube.com/shorts/9I-5Zgw3QhQ
+autism_031.mkv -> 38.mkv -> https://www.youtube.com/shorts/MjZCuZXSkqM
+autism_032.mkv -> 39.mkv -> https://www.youtube.com/shorts/MjZCuZXSkqM
+autism_033.mp4 -> 4.mp4 -> https://www.youtube.com/shorts/y-k9CQMJcRQ
+autism_034.mkv -> 40.mkv -> https://www.youtube.com/shorts/tSkS5AF4s2o
+autism_035.mkv -> 5.mkv -> https://www.youtube.com/shorts/pFGBUME8roY
+autism_036.mp4 -> 6.mp4 -> https://www.youtube.com/shorts/SVUlNkxAeZ0
+autism_037.mkv -> 7.mkv -> https://www.youtube.com/watch?v=qiz1CnD6Dj4&ab_channel=learngo
+autism_038.mp4 -> 8.mp4 -> https://www.youtube.com/watch?v=SQRSpgBnABc&ab_channel=TheDadLab
+autism_039.mp4 -> 9.mp4 -> https://www.youtube.com/shorts/aNFliCNMhgg
+
+HEALTHY VIDEOS (39 files):
+------------------------------
+1- 1 years old https://www.tiktok.com/@life.with.mellyma/video/7489171803567295766
+2- 1 years old https://www.tiktok.com/@hannahmaehoeg/video/7486977137098886430
+3- 1 years old https://www.tiktok.com/@annamariapdtk/video/7161558276662955307
+4- 1 years old https://www.tiktok.com/@meliketaytas/video/7346131552176213253
+5- 2 years old https://www.tiktok.com/@zelissinblogu/video/7286538169648958726
+6- 2 years old https://www.tiktok.com/@ari_up/video/7483097906430414102
+7- 2 years old https://www.tiktok.com/@natalie.xx567/video/7530070113022774542
+8- 2 years old https://www.tiktok.com/@rifkarai/video/7452987163093912837
+9- 2 years old https://www.tiktok.com/@kennethsuryawibawa/video/7157398343486852379
+10- 2 years old https://www.tiktok.com/@pubity/video/7392049140986907937
+11- 2 years old https://www.tiktok.com/@carolynkhodagholian/video/7519598812973862175
+12- 3 years old https://www.tiktok.com/@nhfzslhdn/video/7221928802656472347
+13- 3 years old https://www.tiktok.com/@angie__2408/video/7449100832743705898
+14- 3 years old https://www.tiktok.com/@lariyah.missshirley/video/7441676865007324458
+15- 4 years old https://www.tiktok.com/@raisingfrenchfries/video/7497756766512368926
+16- 4 years old https://www.tiktok.com/@carlypoole4/video/7443970690195262762?
+20- 4 years old https://www.tiktok.com/@allman289/video/7370960453905730859
+21- 4 years old https://www.tiktok.com/@toddlerscanread/video/7498045351148915998
+22- 4 years old https://www.tiktok.com/@tpynmedia/video/7443151395487894815
+23- 4 years old https://www.tiktok.com/@mai_tsujimoto/video/7437489252864118023
+24- 4 years old https://www.tiktok.com/@lifebylexio/video/7279848173789580586
+25- 2 years old https://www.tiktok.com/@maeva.aus/video/7532028039887162631
+26- 5 years old https://www.tiktok.com/@ronanmicael/video/7518867964045561144
+27- 2 years old https://www.tiktok.com/@babysamanddad/video/7426457654802828576
+28- 5 years old https://www.tiktok.com/@deryademircann35/video/7294204321275596037
+29- 5 years old https://www.tiktok.com/@madirolli/video/7466561493174078766
+30- 5 years old https://www.tiktok.com/@leahmom_/video/7501752807158975790
+31- 6 years old https://www.tiktok.com/@briellecherie/video/7532555989124386061
+32- 2 years old https://www.tiktok.com/@melishahparsons/video/7353678633506164000
+33- 2 years old https://www.tiktok.com/@turkeytailatgmail.com/video/7508411715428617503
+34- 2 years old https://www.tiktok.com/@linekateee/video/7299574522779323654
+35- 1 years old https://www.tiktok.com/@talizomer/video/7073754381174328582
+36- 1 years old https://www.tiktok.com/@mommyselsi/video/7535063819601595656
+37- 1 years old https://www.tiktok.com/@nancysabra7/video/7143249944541940993
+38- 1 years old https://www.tiktok.com/@destineekayy/video/7508903981213601070
+39- 5 years old https://www.tiktok.com/@lakenberry_mamaoncoffee/video/7469611786816228638
+
+SUMMARY:
+------------------------------
+Total external test videos: 78
+Autism videos: 39
+Healthy videos: 39
+
+Note: All videos are unique and were NOT used in model training.
+These videos can be used to test model generalizability on unseen data.
